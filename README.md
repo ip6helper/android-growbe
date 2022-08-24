@@ -9,4 +9,5 @@ In this repository is the version 1.0 of the Growbe Android application to manag
     - [ ] Form to retreive the settings from the user;
     - [ ] Code to send provisioning to the device;
     - [ ] Code to save in preference the last settings from the user;
+    - [ ] Importe the project in Kotlin;
 
